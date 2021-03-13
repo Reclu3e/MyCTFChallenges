@@ -11,3 +11,5 @@
 7. Hint: java version of java_calc container: 8u221
 
 ## Challenge Env
+- URL: https://pan.baidu.com/s/1EvadLSjmazfKgZGug0V3ow 
+- Password: k5h5
